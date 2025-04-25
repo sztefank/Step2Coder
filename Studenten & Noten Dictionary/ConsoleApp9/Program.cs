@@ -146,7 +146,7 @@ namespace ConsoleApp9
 
                 // 2 ausgeben von einem array
 
-            } while (choice != 5);
+            } while (choice != 6);
             
         }
     }
