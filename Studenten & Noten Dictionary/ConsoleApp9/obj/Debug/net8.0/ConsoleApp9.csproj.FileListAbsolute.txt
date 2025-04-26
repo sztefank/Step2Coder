@@ -26,3 +26,18 @@ E:\VisualStudio2022\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.dll
 E:\VisualStudio2022\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.pdb
 E:\VisualStudio2022\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.genruntimeconfig.cache
 E:\VisualStudio2022\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ref\ConsoleApp9.dll
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.exe
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.deps.json
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.runtimeconfig.json
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.dll
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.pdb
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.AssemblyInfo.cs
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.sourcelink.json
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.dll
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\obj\Debug\net8.0\refint\ConsoleApp9.dll
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.pdb
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.genruntimeconfig.cache
+C:\Users\sztef\Desktop\Kurs\Step2Coder\Studenten & Noten Dictionary\ConsoleApp9\obj\Debug\net8.0\ref\ConsoleApp9.dll

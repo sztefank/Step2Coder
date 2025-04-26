@@ -96,6 +96,7 @@ namespace ConsoleApp9
                                 {
                                     name_mark.Remove(element.Key);
                                     Console.WriteLine("Der Student " + check_person + " wurde entfernt.");
+                                    break;
                                 }
                                 else 
                                 {
@@ -119,9 +120,11 @@ namespace ConsoleApp9
                                 if (counter == choice)
                                 {
                                     Console.WriteLine(element.Key + " " + element.Value);
+                                    break;
                                 }
                                 counter += 1;
                             }
+                            counter = 1;
                         }
                         else
                         {
