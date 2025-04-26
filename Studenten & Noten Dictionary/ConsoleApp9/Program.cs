@@ -20,13 +20,13 @@ namespace ConsoleApp9
             int choice;
             string warning = "\nBitte geben sie zuerst Studenten an.";
             string check_person;
-            int counter = 0;
+            int counter = 1;
 
             do
             {
                 Console.WriteLine("\n1 Um den Namen & die Note eines Studenten anzugeben.\n" +
                                   "2 Um einen Studenten & seine Note auszulesen.\n" +
-                                  "3 Um Alle Studenten & ihre Noten auszulesen.\n" +
+                                  "3 Um alle Studenten & ihre Noten auszulesen.\n" +
                                   "4 Um einen Studenten zu entfernen.\n" +
                                   "5 Um den Wert an einer bestimmten Stelle anzuzeigen.\n" +
                                   "6 Um das Programm zu beenden.\n");
@@ -37,16 +37,25 @@ namespace ConsoleApp9
                 {
                     case 1:
                         Console.WriteLine("Geben sie den zuerst den Namen an und dann die Note");
+
                         student_name = Console.ReadLine();
                         student_mark = Convert.ToInt32(Console.ReadLine());
 
-                        name_mark.Add(student_name, student_mark);
-                        Console.WriteLine("\nDer Student " +  student_name + " mit der Note " + student_mark + " wurde hinzugefügt");
+                        if (student_mark > 0 || student_mark < 6) 
+                        {
+                            name_mark.Add(student_name, student_mark);
+                            Console.WriteLine("\nDer Student " +  student_name + " mit der Note " + student_mark + " wurde hinzugefügt");
+                        }
+                        else 
+                        {
+                            Console.WriteLine("Bitte geben sie eine gültige Note ein.");
+                        }
+
                         break;
                     case 2:
                         if (name_mark.Count != 0)
                         {
-                            Console.WriteLine("Geben sie den namen des studenten ein: ");
+                            Console.WriteLine("Geben sie den namen des Studenten ein: ");
                             check_person = (Console.ReadLine());
 
                             foreach (var element in name_mark)
@@ -86,7 +95,11 @@ namespace ConsoleApp9
                                 if (element.Key == check_person)
                                 {
                                     name_mark.Remove(element.Key);
-                                    Console.WriteLine("Der Student " + check_person + "wurde entfernt.");
+                                    Console.WriteLine("Der Student " + check_person + " wurde entfernt.");
+                                }
+                                else 
+                                {
+                                    Console.WriteLine("Dieser Student ist nicht vorhanden.")
                                 }
                             }
                         }
