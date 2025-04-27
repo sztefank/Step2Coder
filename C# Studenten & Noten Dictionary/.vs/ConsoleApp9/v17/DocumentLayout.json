@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sztef\\Desktop\\Kurs\\Step2Coder\\Studenten \u0026 Noten Dictionary\\",
+  "WorkspaceRootPath": "C:\\Users\\sztef\\Desktop\\Kurs\\Step2Coder\\C# Studenten \u0026 Noten Dictionary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{778C2F29-22AE-4996-8D1C-0669388833CD}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\sztef\\desktop\\kurs\\step2coder\\studenten \u0026 noten dictionary\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{778C2F29-22AE-4996-8D1C-0669388833CD}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\sztef\\desktop\\kurs\\step2coder\\c# studenten \u0026 noten dictionary\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{778C2F29-22AE-4996-8D1C-0669388833CD}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sztef\\Desktop\\Kurs\\Step2Coder\\Studenten \u0026 Noten Dictionary\\ConsoleApp9\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sztef\\Desktop\\Kurs\\Step2Coder\\C# Studenten \u0026 Noten Dictionary\\ConsoleApp9\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
-              "ToolTip": "C:\\Users\\sztef\\Desktop\\Kurs\\Step2Coder\\Studenten \u0026 Noten Dictionary\\ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\Users\\sztef\\Desktop\\Kurs\\Step2Coder\\C# Studenten \u0026 Noten Dictionary\\ConsoleApp9\\Program.cs",
               "RelativeToolTip": "ConsoleApp9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwBYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T06:01:19.578Z",
               "EditorCaption": ""

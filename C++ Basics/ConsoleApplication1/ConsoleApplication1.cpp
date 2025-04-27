@@ -1,12 +1,13 @@
 #include <iostream> // alles mit einem # davor ist ein "preprocessor" - heißt es wird vor der kompilierung ausgeführt
-#include <vector>
+#include <vector> // vectoren sind arrays mit unbestimmer größe (muss man inkludieren)
+#include <map> // maps sind dictionaries (muss man auch inkludieren)
 
 using namespace std; // erspart das std:: bei cin/cout/string/endl
 
 // int i; deklaration
 // int i = 0; definition
 
-// datentypen: int(zahlen) - double(floats/zahlen mit decimal stellen) - char(string aber für nur einen buchstaben) - string(buchstaben) - bool(true oder false) - const(konstanter wert der nicht geändert werden kann)
+// datentypen: int(zahlen) - double(floats/zahlen mit decimal stellen) - char(string aber für nur einen buchstaben) - string(buchstaben) - bool(true oder false) - const(konstanter wert der nicht geändert werden kann) - auto(der compiler erkennt automatisch den datentypen der variable)
 // * sind pointer (noch nicht ganz verstanden)
 // alle variablen außerhalb von funktionen sind global 
 int i;
@@ -14,7 +15,9 @@ string input;
 int choice;
 int zahl_array[5] = {1, 2, 3, 4, 5}; // arrays natürlich mit bestimmter größe, nicht möglich nur zu deklarieren ohne größe :( außer man benutzt pointer  - array indexing mit []
 string* wort_Array[]; // so muss man nicht direkt die größe bestimmen 
-vector<int> zahl_vector; // vectoren sind arrays mit unbestimmer größe (muss man inkludieren)
+vector<int> zahl_vector; 
+map<string, int> name_alter; // eine dictionary mit einem string als key und einem int als value
+
 
 int main()
 {
@@ -59,7 +62,7 @@ int main()
         break;
     }
 
-    for (int zahl : zahl_array) // foreach loop
+    for (int zahl : zahl_array) // foreach loop (das in keyword wird durch : ersetzt)
     {
         cout << "foreach loop" << endl;
     }
@@ -68,7 +71,7 @@ int main()
 
     zahl_vector.insert(zahl_vector.begin(), 0); // ein element an einer bestimmten stelle hinzufügen
 
-    cout << zahl_vector[0]; // vector indexing genau wie bei arrays 
+    cout << zahl_vector[0] << endl; // vector indexing genau wie bei arrays 
 
     zahl_vector.pop_back(); // das letzte element aus einem vector hinzufügen
 
@@ -84,6 +87,14 @@ int main()
         break;
     default:
         break;
+    }
+
+    name_alter["fortnite"] = 20; // key-value pairs definieren
+    name_alter["skibidi"] = 25;
+
+    for (auto var : name_alter) // mit einer foreach schleife über einen array/vector/map loopen 
+    {
+        cout << var.first << "\n" << var.second << endl;; // first ist der key und second ist die value
     }
 
     return 0; // die main funktion beenden
