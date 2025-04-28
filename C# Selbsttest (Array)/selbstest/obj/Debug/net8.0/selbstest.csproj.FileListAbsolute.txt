@@ -1,0 +1,14 @@
+D:\VisualStudio2022\selbstest\selbstest\bin\Debug\net8.0\selbstest.exe
+D:\VisualStudio2022\selbstest\selbstest\bin\Debug\net8.0\selbstest.deps.json
+D:\VisualStudio2022\selbstest\selbstest\bin\Debug\net8.0\selbstest.runtimeconfig.json
+D:\VisualStudio2022\selbstest\selbstest\bin\Debug\net8.0\selbstest.dll
+D:\VisualStudio2022\selbstest\selbstest\bin\Debug\net8.0\selbstest.pdb
+D:\VisualStudio2022\selbstest\selbstest\obj\Debug\net8.0\selbstest.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio2022\selbstest\selbstest\obj\Debug\net8.0\selbstest.AssemblyInfoInputs.cache
+D:\VisualStudio2022\selbstest\selbstest\obj\Debug\net8.0\selbstest.AssemblyInfo.cs
+D:\VisualStudio2022\selbstest\selbstest\obj\Debug\net8.0\selbstest.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\selbstest\selbstest\obj\Debug\net8.0\selbstest.dll
+D:\VisualStudio2022\selbstest\selbstest\obj\Debug\net8.0\refint\selbstest.dll
+D:\VisualStudio2022\selbstest\selbstest\obj\Debug\net8.0\selbstest.pdb
+D:\VisualStudio2022\selbstest\selbstest\obj\Debug\net8.0\selbstest.genruntimeconfig.cache
+D:\VisualStudio2022\selbstest\selbstest\obj\Debug\net8.0\ref\selbstest.dll
