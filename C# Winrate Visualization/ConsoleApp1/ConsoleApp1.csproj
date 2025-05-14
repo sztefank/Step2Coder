@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Undead.cs~RF57fdd1.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OxyPlot.SkiaSharp" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>

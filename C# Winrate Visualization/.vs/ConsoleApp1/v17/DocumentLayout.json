@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D0C35-5C08-4FD6-9499-C6EC975DD37D}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visualstudio2022\\not done\\consoleapp1\\consoleapp1\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D0C35-5C08-4FD6-9499-C6EC975DD37D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D0C35-5C08-4FD6-9499-C6EC975DD37D}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visualstudio2022\\not done\\consoleapp1\\consoleapp1\\undead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D0C35-5C08-4FD6-9499-C6EC975DD37D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\undead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D0C35-5C08-4FD6-9499-C6EC975DD37D}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visualstudio2022\\not done\\consoleapp1\\consoleapp1\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D0C35-5C08-4FD6-9499-C6EC975DD37D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D0C35-5C08-4FD6-9499-C6EC975DD37D}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visualstudio2022\\not done\\consoleapp1\\consoleapp1\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D0C35-5C08-4FD6-9499-C6EC975DD37D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D0C35-5C08-4FD6-9499-C6EC975DD37D}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visualstudio2022\\not done\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D0C35-5C08-4FD6-9499-C6EC975DD37D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:02:01.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\ConsoleApp1\\GameController.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GameController.cs",
+              "ToolTip": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\ConsoleApp1\\GameController.cs",
+              "RelativeToolTip": "ConsoleApp1\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:53:31.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\ConsoleApp1\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GameCharacter.cs",
+              "ToolTip": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\ConsoleApp1\\GameCharacter.cs",
+              "RelativeToolTip": "ConsoleApp1\\GameCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:05:41.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Undead.cs",
+              "DocumentMoniker": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\ConsoleApp1\\Undead.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Undead.cs",
+              "ToolTip": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\ConsoleApp1\\Undead.cs",
+              "RelativeToolTip": "ConsoleApp1\\Undead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:20:51.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\ConsoleApp1\\Mage.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Mage.cs",
+              "ToolTip": "E:\\VisualStudio2022\\not done\\ConsoleApp1\\ConsoleApp1\\Mage.cs",
+              "RelativeToolTip": "ConsoleApp1\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:20:41.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
